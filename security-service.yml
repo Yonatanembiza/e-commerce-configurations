@@ -1,2 +1,3 @@
+# This is the primary port we want to use for the security service
 server:
   port: 8081
