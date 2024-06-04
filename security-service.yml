@@ -1,3 +1,10 @@
 # This is the primary port we want to use for the security service
 server:
   port: 8081
+
+spring:
+  application:
+    name: security-service
+
+# Add more configurations as needed
+
